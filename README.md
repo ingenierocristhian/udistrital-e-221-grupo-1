@@ -1,10 +1,10 @@
 # udistrital-e-221-grupo-1
 
-## Temática: Medio ambiente. #reciclaje #medioambiente #basuras #plástico
-## Reto: ¿Cómo podemos definir un sistema de reciclaje sostenible para la comunidad? Localidad: Barrios Unidos.
+## Temática: Colegios ampliados. #educación #calidad #oportunidades
+## Reto: ¿Cómo podemos ampliar la cobertura de los colegios públicos (o privados con precios accesibles para los habitantes de la comunidad)? Localidad: Bosa.
 
 INTEGRANTES: 
-* nombre apellido
-* nombre apellido
-* nombre apellido
-* nombre apellido
+* Maria Nelly Herrera
+* Sonia Rodriguez
+* Luis Gomez
+* Cristhian Yesid Cardona
